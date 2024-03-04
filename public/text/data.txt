@@ -1,0 +1,17 @@
+{
+  "person": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "postalCode": "12345"
+    },
+    "email": "john.doe@example.com",
+    "phone": "+1 (555) 123-4567",
+    "isStudent": false,
+    "hobbies": ["reading", "coding", "traveling"]
+  }
+}
